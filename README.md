@@ -17,4 +17,17 @@ Esta sendo uma experiência incrível.
 * Mysql
 * PAI
 
+## Meu Primeiro Programa
+Esse exemplo abaixo é um codigo em C escrevendo um Olá, Mundo!  na tela.
+
+```
+include <stdio.h>
+int main() {
+   printf("Olá, Mundo!");
+   return 0;
+}
+```
+
+
+
 
